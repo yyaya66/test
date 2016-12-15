@@ -1,3 +1,5 @@
-# test
+class Test{
 
-this is a test
+public static void main(String arg[]){
+
+System.out.println("Test");}}
